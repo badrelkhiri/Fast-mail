@@ -38,7 +38,7 @@ Fast Mail is a desktop application designed for sending bulk emails efficiently.
 
 1. Run the application:
     ```sh
-    python main.py
+    python fastMail.py
     ```
 2. **Home Screen**: 
     - Enter the email subject and body.
